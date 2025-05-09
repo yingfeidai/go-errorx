@@ -27,9 +27,6 @@ vendor/
 .DS_Store
 Thumbs.db
 
-# Go module cache (just in case)
-go.sum
-
 # Build and release artifacts
 bin/
 dist/
